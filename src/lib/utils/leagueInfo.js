@@ -46,7 +46,7 @@ export const managers = [
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "TJ Vallee",
       "location": "Belgrade, ME", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "",
       "photo": "/managers/thomas.jpg", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -66,7 +66,7 @@ export const managers = [
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Brandon Kieltyka",
       "location": "Winthrop, ME", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "",
       "photo": "/managers/brandon.jpg", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -86,7 +86,7 @@ export const managers = [
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Cory Clarke",
       "location": "Nashua, NH", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "",
       "photo": "/managers/cory.jpg", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -126,7 +126,7 @@ export const managers = [
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Chris Robinson",
       "location": "Augusta, ME", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "",
       "photo": "/managers/chris.jpg", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -146,7 +146,7 @@ export const managers = [
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Parker O'Brien",
       "location": "Farmingdale, ME", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "",
       "photo": "/managers/parker.jpg", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -166,7 +166,7 @@ export const managers = [
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Kevin Martins",
       "location": "MA", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "",
       "photo": "/managers/kevin.jpg", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -186,7 +186,6 @@ export const managers = [
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Charles Partridge",
       "location": "San Diego, CA", // (optional)
-      "bio": "Lorem ipsum...",
       "photo": "/managers/charles.jpg", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
