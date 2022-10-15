@@ -7,12 +7,43 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Hey there, I'm Guy Fieri,
+and we're rolling out looking for America's greatest diners, drive-ins, and dives.
+
+This trip...
+
+Let's see the magic, baby.
+
+...we're loading, stuffing,
+and frying...
+
+Wait, oh, slow down!
+
+...like with Mexican seafood
+specialities in Kansas City...
+
+That's the money bite.
+
+...the bomb barbecue
+in El Paso...
+
+No filler, all thriller.
+
+...and in Santa Fe...
+
+...farm to table...
+
+I like that.
+
+...done down and dirty.
+
+That's a destination dish.
+
+I'd come back tomorrow
+for this.
+
+That's all right here, right now
+on "Diners, Drive-Ins & Dives."</p>
 `;
 
 /*   STEP 3   */
